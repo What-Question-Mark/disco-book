@@ -1,5 +1,0 @@
-steps:
-  - shell: cmd
-    env:
-      api_key: ${{ secrets.api_key }}
-      token: ${{ secrets.token }}
