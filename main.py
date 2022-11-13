@@ -1,6 +1,15 @@
-import discord, asyncio, random, time, json, os, string, requests
+import asyncio
+import json
+import os
+import random
+import string
+import time
+
+import discord
+import requests
 from discord.ext import commands
 from discord.utils import get
+
 
 class colors:
     OKBLUE = '\033[94m'

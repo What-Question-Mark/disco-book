@@ -1,4 +1,13 @@
-import discord, asyncio, random, time, json, os, string, requests, aiohttp
+import asyncio
+import json
+import os
+import random
+import string
+import time
+
+import aiohttp
+import discord
+import requests
 from discord.ext import commands
 from discord.utils import get
 
